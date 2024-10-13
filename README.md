@@ -1,0 +1,1 @@
+A project for UCI MS in Business analytics Data and Programming course where we had to create a predictive model. I chose Predicting whether a home would rent for more or less than the average rent in los angeles based on the various amenities, rooms, bathrooms etc. 
